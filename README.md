@@ -3,9 +3,9 @@
 ### 📌 **FitClub Starter - My Early Gym App** 🏋️‍♂️  
 > 🚀 **An old project from my learning days – simple, but a milestone in my journey!**  
 
-![FitClub](https://user-images.githubusercontent.com/your-image-url.jpg) *(Add an image if available!)*  
 
----
+
+
 
 ## 🔥 About This Project  
 
